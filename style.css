@@ -97,3 +97,14 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+.name{
+    right: 435px;
+    border-radius: 20px;
+    position: absolute;
+    font-size: 40px;
+    color: rgb(144, 221, 215);
+    background:#000000;
+    text-align: center;
+    display: flex;
+    
+}
